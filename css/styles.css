@@ -1,0 +1,50 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: left;
+    margin-left: 15%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 64px;
+}
+
+p {
+    color: white;
+    margin-left: 15%
+}
+
+h2 {
+    color:white;
+    margin-left: 15%
+}
+
+.row {
+    width: 100%;
+    height: 20em;
+}
+
+#row0 {
+    background-color: #72dae8;
+    margin: 0%
+}
+
+#row2 {
+    background-color: #e89372;
+}
+
+sub {font-size: 32px;}
+
+a {
+    color: white;
+}
+
+#splash {
+    width:100vh;
+    height: 100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
